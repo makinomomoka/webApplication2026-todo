@@ -24,3 +24,4 @@ export type TodoListViewData = {
     todos: Todo[];
     message?: string;
 };
+
